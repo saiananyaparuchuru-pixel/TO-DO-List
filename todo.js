@@ -1,3 +1,4 @@
+// this is a js file
 // let task=document.querySelector("#text1");
 // let desc=document.querySelector("#text2");
 // let add=document.querySelector("button");
