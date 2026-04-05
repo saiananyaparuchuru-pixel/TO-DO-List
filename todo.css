@@ -1,0 +1,78 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    height: 40px;
+    width: 100%;
+    background-color: pink;
+    color: rgb(125, 84, 8);
+    text-align: center;
+    margin: 10px;
+}
+.container{
+    height: 300px;
+    width: 600px;
+    background-color: darkcyan;
+    color: darkkhaki;
+    font-weight: bold;
+    margin-left: 450px;
+    border-radius: 1rem;
+}
+#text1{
+    margin: 10px;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    border:none;
+}
+
+#text2{
+    margin: 10px;
+    font-size: 1rem; 
+    border-radius: 0.5rem;
+    border:none;
+}
+
+p{
+    margin: 10px;
+    font-size: 1.5rem;
+}
+button{
+    margin: 30px;
+    width: 100px;
+    border-radius: 1.5rem;
+    border: none;
+    font-size: 1rem;
+    padding: 2px;
+    color: darkcyan;
+}
+.Lists{
+     height: 300px;
+    width: 600px;
+    font-weight: bold;
+    margin-left: 450px;
+}
+.remove-btn{
+    margin: 30px;
+    width: 100px;
+    border-radius: 1.5rem;
+    border: none;
+    font-size: 1rem;
+    padding: 2px;
+    color: darkcyan;
+    margin-left: 150px;
+}
+.Item{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 400px;
+    border-radius: 1rem;
+    color: darkkhaki;
+    background-color: darkcyan;
+    margin-left: 100px;
+     margin-top: 20px;
+}
